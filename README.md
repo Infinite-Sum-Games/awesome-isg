@@ -46,5 +46,6 @@ this list so that the community can benefit from it.
 ### Design Patterns
 1. [Behavioral Design Patterns in Golang](https://jitesh117.github.io/blog/behavioral-design-pattern-golang/?s=09)
 2. [Creational Design Patterns in Golang](https://jitesh117.github.io/blog/creational-design-pattern-golang/?s=09)
+3. [Behavioral Design Patterns (Not language specific)](https://refactoring.guru/design-patterns/behavioral-patterns)
 
 ## Books:
