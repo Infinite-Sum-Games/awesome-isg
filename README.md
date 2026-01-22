@@ -11,7 +11,17 @@ this list so that the community can benefit from it.
 4. [Write a NES Emulator](https://bugzmanov.github.io/nes_ebook/)
 5. [GossipGlomers: Fly.io Distributed Systems Challenge](https://fly.io/dist-sys/)
 
-## Blogs:
+## Cool Data Structures
+1. [Lock-Free Queues](https://secondboyet.com/Articles/LockfreeQueue.html)
+2. [Lock-Free Stack](https://secondboyet.com/Articles/LockfreeStack.html)
+3. [Lock-Free Priority Queue](https://secondboyet.com/Articles/LockFreeLimitedPriorityQ.html)
+4. [Lock-Free FreeList](https://secondboyet.com/Articles/LockfreeFreeList.html)
+5. [Lock-Free Redux](https://secondboyet.com/Articles/LockFreeRedux.html)
+
+## Low-Latency/High-Frequency Stuff:
+1. [From Exchange to EyeBalls](https://sahi.com/blogs/from-exchange-to-eyeballs-engineering-sahi-s-ultra-low-latency-feed-and-chart)
+2. [Where Nanoseconds Matter](https://youtu.be/sX2nF1fW7kI?si=BV6bi8WLFfg2oQTA)
+3. [When a Microsecond is An Eternity](https://github.com/CppCon/CppCon2017/blob/master/Presentations/When%20a%20Microsecond%20Is%20an%20Eternity/When%20a%20Microsecond%20Is%20an%20Eternity%20-%20Carl%20Cook%20-%20CppCon%202017.pdf)
 
 ### Rust:
 1. [Tips for Faster Rust Compilation](https://corrode.dev/blog/tips-for-faster-rust-compile-times/)
